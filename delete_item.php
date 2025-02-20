@@ -39,7 +39,6 @@ if (isset($_GET['item_id'])) {
         $conn->rollback();
         $msg[] = $e->getMessage();
     }
-
     // Redirect with message
     $_SESSION['message'] = $msg; // Store message in session to display on redirected page
     header('Location: view_items.php');

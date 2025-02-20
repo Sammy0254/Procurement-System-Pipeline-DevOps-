@@ -3,7 +3,7 @@
   require_once('includes/sql.php');
 
   page_require_level(1);
-  $court_name = 'Narok Law Courts'; // Court Name
+  $court_name = 'Procurement System'; // Court Name
 
 ?>
 

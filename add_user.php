@@ -7,7 +7,6 @@
 ?>
 <?php
   if(isset($_POST['add_user'])){
-
    $req_fields = array('full-name','username','password','level' );
    validate_fields($req_fields);
 

@@ -1,7 +1,6 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-
 $page_title = 'Add New Item';
 require_once('includes/load.php');
 require_once('includes/database.php');

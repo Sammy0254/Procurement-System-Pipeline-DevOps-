@@ -6,9 +6,7 @@
   $court_name = 'Procurement System'; // Court Name
 
 ?>
-
 <?php include_once('layouts/header.php'); ?>
-
 <div class="row">
    <div class="col-md-6">
      <?php echo display_msg($msg); ?>

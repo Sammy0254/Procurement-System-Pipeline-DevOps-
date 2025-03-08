@@ -5,7 +5,6 @@ $page_title = 'Add New Item';
 require_once('includes/load.php');
 require_once('includes/database.php');
 page_require_level(1);
-
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $item_name = $_POST['item_name'];
     $receipt_number = $_POST['receipt_number'];

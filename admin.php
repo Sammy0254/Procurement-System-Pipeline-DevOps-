@@ -4,7 +4,6 @@
 
   page_require_level(1);
   $court_name = 'Procurement System'; // Court Name
-
 ?>
 <?php include_once('layouts/header.php'); ?>
 <div class="row">

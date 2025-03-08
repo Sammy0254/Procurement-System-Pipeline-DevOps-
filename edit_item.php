@@ -2,7 +2,6 @@
 $page_title = 'Edit Item';
 require_once('includes/load.php');
 page_require_level(1);
-
 require_once('includes/config.php');
 
 $msg = []; // Initialize the message variable as an array

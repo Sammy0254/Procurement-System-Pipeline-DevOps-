@@ -19,7 +19,7 @@
       <div class="panel-heading">
         <strong>
           <span class="glyphicon glyphicon-time"></span>
-          <span>Recent Added Items</span>
+          <span>Added Items</span>
         </strong>
       </div>
       <div class="panel-body">

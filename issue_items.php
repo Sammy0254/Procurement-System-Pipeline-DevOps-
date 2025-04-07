@@ -31,7 +31,7 @@ if (isset($_POST['issue'])) {
         }
         $stmt->close();
     } else {
-        $session->msg('d', "Not enough items in stock.");
+        $session->msg('d', "Not enough items.");
     }
 }
 
